@@ -7,9 +7,9 @@
         remote="remote"
         revision="master" />
     <project
-        name="repo_demo1"
-        path="repo-demo1" />
+        name="repo-demo1"
+        path="repo_demo1" />
     <project
-        name="repo_demo2"
-        path="repo-demo2" />
+        name="repo-demo2"
+        path="repo_demo2" />
 </manifest>
