@@ -3,6 +3,9 @@
     <remote
         name="remote"
         fetch="https://github.com/daemon369" />
+    <default
+        remote="remote"
+        revision="master" />
     <project
         name="repo_demo1"
         path="repo-demo1" />
