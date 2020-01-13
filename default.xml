@@ -8,8 +8,10 @@
         revision="master" />
     <project
         name="repo-demo1"
-        path="repo_demo1" />
+        path="repo_demo1"
+        revision="master" />
     <project
         name="repo-demo2"
-        path="repo_demo2" />
+        path="repo_demo2"
+        revision="master" />
 </manifest>
